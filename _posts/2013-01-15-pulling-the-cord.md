@@ -37,7 +37,7 @@ When I first started to think about this, I considered web-browsing to be one of
 
 I was pleasantly surprised.
 
-Firstly, Firefox has excellent [keyboard navigation support](http://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly), which aligns surprisingly well with the conventional key-bindings in GNOME/GTK+ (e.g. _Ctrl+F_ and _Ctrl+G_ for "find" and "find next", respectively). Tab navigation uses (by default) the same keys as both GNOME/GTK+ and [VIM](http://vim.org) (_Ctrl+PageUp_ and _Ctrl+PageDown_ respectively).
+Firstly, Firefox has excellent [keyboard navigation support](http://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly), which aligns surprisingly well with the conventional key-bindings in GNOME/GTK+ (e.g. *Ctrl+F* and *Ctrl+G* for "find" and "find next", respectively). Tab navigation uses (by default) the same keys as both GNOME/GTK+ and [VIM](http://vim.org) (*Ctrl+PageUp* and *Ctrl+PageDown* respectively).
 
 Parity with VIM key-bindings will actually be a recurring theme in this post.
 
