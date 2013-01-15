@@ -154,6 +154,10 @@ dt {
   font-weight: bold;
 }
 
+ul, dl.short {
+    padding-left: 40px;
+}
+
 ul li {
   list-style: none;
 }
