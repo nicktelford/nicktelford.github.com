@@ -16,9 +16,10 @@ title: Thoughts on programming by Nick Telford
 </dl>
 
 <h3>Posts</h3>
-<ul>
+<dl class="short">
     {% for post in site.posts limit: 7 %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> - {{ post.date | date:"%B %d, %Y" }}</li>
+    <dt><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></dt>
+    <dd class="byline">{{ post.date | date:"%B %d, %Y" }}</dd>
 </ul>
 {% endfor %}
 
