@@ -12,7 +12,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto;
 }
 
@@ -66,6 +66,16 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+}
+
+footer {
+    font-size: 50%;
+    color: #666;
+}
+
+footer a {
+    color: #2080b1;
+    text-shadow: none;
 }
 
 #downloads .btn {
@@ -220,6 +230,11 @@ hr {
 .btn-github .icon {
   opacity: 0.6;
   background: url("../images/blacktocat.png") 0 0 no-repeat;
+}
+
+.btn-twitter .icon {
+    opacity: 0.6;
+    background: url("../images/twitter-bird-icon.png") 0 0 no-repeat;
 }
 
 /* Links
