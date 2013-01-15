@@ -134,6 +134,20 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 5px 0;
 }
 
+dl.short dt:after {
+    content: " | ";
+}
+
+dl.short dt, dl.short dd {
+    display: inline;
+    float: left;
+    margin: 0 0.5em 0 0;
+}
+
+dl.short dd + dt, dl.short dd + dd {
+    clear: left;
+}
+
 dt {
   font-style: italic;
   font-weight: bold;
