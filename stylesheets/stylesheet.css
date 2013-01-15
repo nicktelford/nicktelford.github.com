@@ -134,6 +134,13 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 5px 0;
 }
 
+.byline {
+    color: #666;
+    font-style: italic;
+    font-size: 0.8em;
+    margin-top: -1.5em;
+}
+
 dl.short dd {
     font-size: 0.8em;
     line-height: 2em;
