@@ -20,7 +20,7 @@ By choosing to maximise my time on the keyboard, I hope to gain in the long-term
 
 ## VIM
 
-VIM has been my standard editor for quite some time now, and I've gone to a fair bit of effort to [customise it](https://github.com/nicktelford/dotfiles/tree/master/src/.vimrc) to my needs. Over time, it's helped me understand the expressive nature of keyboard driven input, and convinced me that to drop the mouse altogether. 
+[VIM](http://vim.org) has been my standard editor for quite some time now, and I've gone to a fair bit of effort to [customise it](https://github.com/nicktelford/dotfiles/tree/master/src/.vimrc) to my needs. Over time, it's helped me understand the expressive nature of keyboard driven input, and convinced me that to drop the mouse altogether. 
 
 
 ## XMonad
@@ -37,7 +37,7 @@ When I first started to think about this, I considered web-browsing to be one of
 
 I was pleasantly surprised.
 
-Firstly, Firefox has excellent [keyboard navigation support](http://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly), which aligns surprisingly well with the conventional key-bindings in GNOME/GTK+ (e.g. *Ctrl+F* and *Ctrl+G* for "find" and "find next", respectively). Tab navigation uses (by default) the same keys as both GNOME/GTK+ and [VIM](http://vim.org) (*Ctrl+PageUp* and *Ctrl+PageDown* respectively).
+Firstly, Firefox has excellent [keyboard navigation support](http://support.mozilla.org/en-US/kb/keyboard-shortcuts-perform-firefox-tasks-quickly), which aligns surprisingly well with the conventional key-bindings in GNOME/GTK+ (e.g. *Ctrl+F* and *Ctrl+G* for "find" and "find next", respectively). Tab navigation uses (by default) the same keys as both GNOME/GTK+ and VIM (*Ctrl+PageUp* and *Ctrl+PageDown* respectively).
 
 Parity with VIM key-bindings will actually be a recurring theme in this post.
 
