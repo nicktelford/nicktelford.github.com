@@ -139,12 +139,12 @@ h1, h2, h3, h4, h5, h6 {
     font-style: italic;
     font-size: 0.8em;
     margin-top: -1.5em;
+    text-align: right;
 }
 
 dl.short dd {
     font-size: 0.8em;
     line-height: 2em;
-    color: #ccc;
 }
 
 dl.short dt {
