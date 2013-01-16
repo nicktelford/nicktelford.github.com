@@ -148,12 +148,21 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 5px 0;
 }
 
+section#main_content h2:first {
+    float: left;
+}
+
 .byline {
     color: #666;
     font-style: italic;
     font-size: 0.8em;
     margin-top: -1.5em;
     text-align: right;
+}
+
+section#main_content div.byline {
+    padding: 16px 0 0;
+    margin-top: 20px;
 }
 
 dl.short dd {
