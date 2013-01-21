@@ -34,7 +34,7 @@ I will try to summarize each, but I'll likely do a terrible job of it. Instead, 
     <dt><a href="http://research.google.com/archive/bigtable.html">BigTable</a> (Google)</dt>
     <dd>Google's scalable column-family oriented database. Inspired much of the design of <a href="http://hbase.apache.org/">HBase</a> and <a href="http://cassandra.apache.org/">Cassandra</a>.</dd>
     <dt><a href="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">Dynamo</a> (Amazon)</dt>
-    <dd>A key-value store that describes *eventual consistency*, a consistency model utilized heavily by <a href="http://cassandra.apache.org/">Cassandra</a> and <a href="http://basho.com/products/riak-overview/">Riak</a>, among many others.</dd>
+    <dd>A key-value store that describes <em>eventual consistency</em>, a consistency model utilized heavily by <a href="http://cassandra.apache.org/">Cassandra</a> and <a href="http://basho.com/products/riak-overview/">Riak</a>, among many others.</dd>
 </dl>
 
 ### Books
