@@ -11,8 +11,12 @@ I will try to summarize each, but I'll likely do a terrible job of it. Instead, 
 ### Presentations
 
 <dl class="short">
-    <dt>[Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (Rich Hickey)</dt>
-    <dd>A look at how embracing simplicity, and sometimes shunning easiness, can conquer complexity.</dd>
+    <dt>
+        [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) (Rich Hickey)
+    </dt>
+    <dd>
+        A look at how embracing simplicity, and sometimes shunning easiness, can conquer complexity.
+    </dd>
 </dl>
 
 ### Articles
