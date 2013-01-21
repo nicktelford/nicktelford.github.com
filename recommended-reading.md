@@ -10,14 +10,14 @@ I will try to summarize each, but I'll likely do a terrible job of it. Instead, 
 
 ### Presentations
 
-<dl class="short">
+<dl>
     <dt><a href="http://www.infoq.com/presentations/Simple-Made-Easy">Simple Made Easy</a> (Rich Hickey)</dt>
     <dd>A look at how embracing simplicity, and sometimes shunning easiness, can conquer complexity.</dd>
 </dl>
 
 ### Articles
 
-<dl class="short">
+<dl>
     <dt><a href="http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/">Notes on Distributed Systems</a> (Jeff Hodges)</dt>
     <dd>Advice from the front-lines on designing, building and running distributed systems. Recommended for everyone, but required reading for anyone working with distributed systems.</dd>
     <dt><a href="http://codahale.com/you-cant-sacrifice-partition-tolerance/">You Can't Sacrifice Partition Tolerance</a> (Coda Hale)</dt>
@@ -28,7 +28,7 @@ I will try to summarize each, but I'll likely do a terrible job of it. Instead, 
 
 ### Papers
 
-<dl class="short">
+<dl>
     <dt><a href="http://research.google.com/archive/mapreduce.html">MapReduce</a> (Google)</dt>
     <dd>The seminal paper on the MapReduce programming model for distributed computation.</dd>
     <dt><a href="http://research.google.com/archive/bigtable.html">BigTable</a> (Google)</dt>
