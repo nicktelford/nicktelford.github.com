@@ -22,10 +22,14 @@ title: Thoughts on programming by Nick Telford
 </dl>
 
 <h2>Posts</h2>
+{% if site.posts == empty %}
+<p class="disclaimer">No posts yet, be patient, I'll write something soon.</p>
+{% else %}
 <dl class="short">
-    {% for post in site.posts limit: 7 %}
+    {% for post in site.posts %}
     <dt><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></dt>
     <dd class="byline">{{ post.date | date:"%B %d, %Y" }}</dd>
-</ul>
-{% endfor %}
+    {% endfor %}
+</dl>
+{% endif %}
 
