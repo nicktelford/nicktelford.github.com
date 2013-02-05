@@ -17,7 +17,7 @@ I will try to summarize each, but I'll likely do a terrible job of it. Instead, 
     <dd>A look at service-level performance metrics and improving transparency of the software you write.</dd>
     <dt><a href="http://vimeo.com/40988625">The Programming Ape</a> (Coda Hale)</dt>
     <dd>Advice on building human-centric tools for software engineers.</dd>
-    <dt><a href="http://www.infoq.com/presentations/Value-Value">The Value of Values</a> (Rich Hickey)</dt>
+    <dt><a href="http://www.infoq.com/presentations/Value-Values">The Value of Values</a> (Rich Hickey)</dt>
     <dd>A talk on the advantages that immutability and functional programming bring.</dd>
 </dl>
 
